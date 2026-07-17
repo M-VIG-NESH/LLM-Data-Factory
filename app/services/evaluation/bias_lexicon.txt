@@ -1,0 +1,55 @@
+# Bias & Toxicity Keyword Lexicon
+# One term per line. Lines starting with # are comments.
+# Categories: hate speech, gender bias, racial slurs, ableist language, harmful stereotypes
+
+# --- Hate Speech / Slurs ---
+nigger
+nigga
+faggot
+kike
+spic
+wetback
+chink
+gook
+towelhead
+raghead
+cracker
+dyke
+tranny
+retard
+cripple
+
+# --- Gender / Sexist Bias ---
+bitch
+whore
+slut
+cunt
+mankind_only
+manpower_exclusive
+hysteria
+feminazi
+
+# --- Demographic Stereotypes ---
+all_women_are
+all_men_are
+blacks_are
+whites_are
+asians_are
+jews_control
+muslims_are_terrorists
+immigrants_are
+
+# --- Harmful Absolute Bias Markers ---
+subhuman
+inferior_race
+superior_race
+white_supremacy
+ethnic_cleansing
+genocide_justified
+rape_culture_acceptable
+
+# --- Ableism ---
+moron
+imbecile
+psycho_slur
+lunatic_slur

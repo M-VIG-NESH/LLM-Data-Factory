@@ -1,0 +1,818 @@
+[
+  {
+    "question": "What is the average cost of a heart attack procedure in Alabama?",
+    "answer": "The average cost of a heart attack procedure in Alabama is around $23394, with some hospitals like Southeast Alabama Medical Center charging this amount, while others like Marshall Medical Center South charge $22579, indicating a variation in costs across different facilities."
+  },
+  {
+    "question": "How does the overall rating of hospitals in Alabama compare to their safety ratings?",
+    "answer": "The overall rating of hospitals in Alabama does not always align with their safety ratings, as some hospitals like Dekalb Regional Medical Center have a lower overall rating but a higher safety rating, while others like Eliza Coffee Memorial Hospital have a higher overall rating but an average safety rating, suggesting that safety is just one factor considered in overall ratings."
+  },
+  {
+    "question": "Which hospital in Alabama has the highest rating for effectiveness and what is its corresponding timeliness rating?",
+    "answer": "The hospital in Alabama with the highest rating for effectiveness is East Alabama Medical Center, which has a rating of 4, and its corresponding timeliness rating is also above average, indicating that the hospital is not only effective in its procedures but also efficient in terms of time, providing a high level of care to its patients."
+  },
+  {
+    "question": "What is the average number of beds in hospitals with 'Government' ownership in the given context?",
+    "answer": "The average number of beds in hospitals with 'Government' ownership is around 23467, with some hospitals having more beds, such as East Alabama Medical Center with 23682 beds, and others having fewer beds, such as Tanner Medical Center-east Alabama with 19690 beds."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Baptist Medical Center South compare to that of Jackson Hospital Clinic Inc?",
+    "answer": "Baptist Medical Center South has a patient satisfaction rating of 'Average', while Jackson Hospital Clinic Inc has a rating of 'Average' as well, however, Jackson Hospital Clinic Inc has a higher rating of 'Higher' in terms of patient satisfaction in some areas, indicating a slightly better performance in those specific areas."
+  },
+  {
+    "question": "What is the distribution of hospital ownership types in the provided context, and which type has the highest number of hospitals?",
+    "answer": "The distribution of hospital ownership types includes 'Government', 'Private', 'Proprietary', and 'Unknown', with 'Proprietary' having a significant presence, 'Government' also having a notable presence, 'Private' having a smaller presence, and 'Unknown' having a limited presence, however, 'Government' and 'Proprietary' seem to have the highest number of hospitals, with 'Government' having around 6 hospitals and 'Proprietary' having around 5 hospitals in the given context."
+  },
+  {
+    "question": "What is the ownership type of Riverview Regional Medical Center located in Gadsden, AL?",
+    "answer": "The ownership type of Riverview Regional Medical Center located in Gadsden, AL is Proprietary."
+  },
+  {
+    "question": "How does the average performance of Flowers Hospital in Dothan, AL compare to the average performance of St Vincent's Birmingham in Birmingham, AL?",
+    "answer": "The average performance of Flowers Hospital in Dothan, AL is Lower in some areas and Average in others, whereas the average performance of St Vincent's Birmingham in Birmingham, AL is Average in most areas, indicating that St Vincent's Birmingham has a slightly better overall performance."
+  },
+  {
+    "question": "What are the similarities and differences between the performance ratings of Medical Center Enterprise in Enterprise, AL and Georgiana Medical Center in Georgiana, AL?",
+    "answer": "Both Medical Center Enterprise in Enterprise, AL and Georgiana Medical Center in Georgiana, AL have Average performance ratings in several areas, but Medical Center Enterprise has a higher rating in some areas, such as having Above average performance, whereas Georgiana Medical Center has Same or Lower ratings in those areas, indicating some differences in their performance."
+  },
+  {
+    "question": "What is the hospital type of Athens Limestone Hospital in Athens, AL?",
+    "answer": "The hospital type of Athens Limestone Hospital in Athens, AL is Government."
+  },
+  {
+    "question": "How does the average patient experience at D C H Regional Medical Center in Tuscaloosa, AL compare to that of Elmore Community Hospital in Wetumpka, AL?",
+    "answer": "The average patient experience at D C H Regional Medical Center in Tuscaloosa, AL is Average, while the average patient experience at Elmore Community Hospital in Wetumpka, AL is Lower, indicating a slightly worse patient experience at Elmore Community Hospital."
+  },
+  {
+    "question": "Which hospital in the given list has the highest number of employees, and what is its hospital type?",
+    "answer": "The hospital with the highest number of employees is Anniston, with 23858 employees, and its hospital type is Government."
+  },
+  {
+    "question": "What is the ownership type of Thomas Hospital located in Fairhope, AL?",
+    "answer": "The ownership type of Thomas Hospital is Private."
+  },
+  {
+    "question": "How does the performance of Grandview Medical Center compare to Princeton Baptist Medical Center in terms of the 'Above' or 'Below' average metrics?",
+    "answer": "Grandview Medical Center has more 'Above' average metrics compared to Princeton Baptist Medical Center, indicating a potentially better performance in certain areas."
+  },
+  {
+    "question": "What are the differences in hospital type and location between Citizens Baptist Medical Center and Pickens County Medical Center?",
+    "answer": "Citizens Baptist Medical Center is a Private hospital located in Talladega, AL, whereas Pickens County Medical Center is a Government hospital located in Carrollton, AL, highlighting differences in both hospital type and location."
+  },
+  {
+    "question": "What is the ownership type of Whitfield Memorial Hospital and what is its average patient rating?",
+    "answer": "Whitfield Memorial Hospital is a government-owned hospital, and it has an average patient rating."
+  },
+  {
+    "question": "How does the average patient rating of Medical West, An Affiliate Of Uab Health System compare to that of Vaughan Regional Medical Center Parkway Campus?",
+    "answer": "The average patient rating of Medical West, An Affiliate Of Uab Health System, is average, which is the same as that of Vaughan Regional Medical Center Parkway Campus, indicating similar patient satisfaction levels at both hospitals."
+  },
+  {
+    "question": "Which hospital has the highest number of patients and what is its ownership type?",
+    "answer": "Brookwood Baptist Medical Center has one of the highest numbers of patients, with 23022 patients, and it is a proprietary hospital, indicating that it is privately owned."
+  },
+  {
+    "question": "What is the average patient rating for Baptist Medical Center East in Montgomery, AL?",
+    "answer": "The average patient rating for Baptist Medical Center East in Montgomery, AL is Average, with a rating of 26578 and 15956 for two different metrics, and a Better rating for one metric."
+  },
+  {
+    "question": "How does the patient rating of Russellville Hospital compare to that of Evergreen Medical Center?",
+    "answer": "The patient rating of Russellville Hospital is Average, which is the same as Evergreen Medical Center, but Russellville Hospital has a Lower rating for one metric, whereas Evergreen Medical Center has a Lower rating for a different metric."
+  },
+  {
+    "question": "What type of ownership does Shoals Hospital in Muscle Shoals, AL have, and what are its patient ratings?",
+    "answer": "Shoals Hospital in Muscle Shoals, AL is a Government-owned hospital, and its patient ratings are Average, with a rating of 16052 and 16744 for two different metrics, and an Average rating for another metric, with one metric being Higher."
+  },
+  {
+    "question": "What is the ownership type of the University Of S A Children's And Women's Hospital in Mobile, AL?",
+    "answer": "The University Of S A Children's And Women's Hospital in Mobile, AL is a Government hospital."
+  },
+  {
+    "question": "How does the average patient experience at Fairbanks Memorial Hospital compare to the average patient experience at Alaska Regional Hospital?",
+    "answer": "The average patient experience at Fairbanks Memorial Hospital and Alaska Regional Hospital is both rated as Average, indicating similar patient satisfaction levels at both hospitals."
+  },
+  {
+    "question": "What is the number of staffed beds at the Providence Alaska Medical Center, and how does it compare to the number of staffed beds at the Mat-su Regional Medical Center?",
+    "answer": "The Providence Alaska Medical Center has 23925 staffed beds, while the Mat-su Regional Medical Center has 21695 staffed beds, indicating that the Providence Alaska Medical Center has more staffed beds than the Mat-su Regional Medical Center."
+  },
+  {
+    "question": "What is the ownership type of the Petersburg Medical Center in Alaska?",
+    "answer": "The Petersburg Medical Center is owned by the Government."
+  },
+  {
+    "question": "How does the patient satisfaction rating of the Ketchikan Medical Center compare to other hospitals?",
+    "answer": "The Ketchikan Medical Center has a patient satisfaction rating of Average, which is comparable to other hospitals such as the Norton Sound Regional Hospital and the Providence Kodiak Island Medical Center, which also have Average patient satisfaction ratings."
+  },
+  {
+    "question": "What is the difference in the number of beds between the Tucson Medical Center and the Verde Valley Medical Center in Arizona?",
+    "answer": "The Tucson Medical Center has 24370 beds, while the Verde Valley Medical Center has 22775 beds, resulting in a difference of 1595 beds between the two hospitals."
+  },
+  {
+    "question": "What is the ownership type of Mary's Hospital in Tucson, AZ?",
+    "answer": "The ownership type of Mary's Hospital in Tucson, AZ is Private."
+  },
+  {
+    "question": "How does the performance of Yavapai Regional Medical Center compare to Yuma Regional Medical Center in terms of the number of beds?",
+    "answer": "Yavapai Regional Medical Center and Yuma Regional Medical Center both have the same number of beds, which is 3, indicating a similar capacity for patient care."
+  },
+  {
+    "question": "What can be inferred about the overall quality of care at John C. Lincoln North Mountain Hospital based on the provided data?",
+    "answer": "The overall quality of care at John C. Lincoln North Mountain Hospital appears to be average, with most metrics rated as 'Average', but with some higher ratings such as 'Higher' for certain specific measures, suggesting a generally stable but not outstanding performance."
+  },
+  {
+    "question": "What is the average patient rating for Joseph's Hospital And Medical Center in Phoenix, AZ?",
+    "answer": "The average patient rating for Joseph's Hospital And Medical Center in Phoenix, AZ is Average, with specific ratings of 18325, 20066, 22659 for different aspects of care."
+  },
+  {
+    "question": "How does the ownership structure of Abrazo Central Campus in Phoenix, AZ compare to that of St Luke's Medical Center?",
+    "answer": "Abrazo Central Campus in Phoenix, AZ is Proprietary, whereas St Luke's Medical Center is also Proprietary, indicating that both hospitals have similar ownership structures as private entities."
+  },
+  {
+    "question": "Which hospital in the list has the highest number of beds, and what is its corresponding patient rating?",
+    "answer": "Scottsdale Osborn Medical Center has the highest number of beds with 4, and its corresponding patient rating is Average, with specific ratings of 24399, 16941, 17473, and 19926 for different aspects of care."
+  },
+  {
+    "question": "What type of ownership does the Graham Regional Medical Center in Safford, AZ have?",
+    "answer": "The Graham Regional Medical Center in Safford, AZ is a Government hospital."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Northwest Medical Center in Tucson, AZ compare to the average?",
+    "answer": "The patient satisfaction rating of Northwest Medical Center in Tucson, AZ is Average, which is the same as the average, but some specific ratings are Worse, indicating a mixed patient satisfaction level."
+  },
+  {
+    "question": "Which hospital in Arizona has the highest number of employees, according to the provided data?",
+    "answer": "According to the provided data, the hospital with the highest number of employees in Arizona is the Abrazo Scottsdale Campus in Phoenix, AZ, with 25192 employees, however, this data may not be comprehensive or up-to-date."
+  },
+  {
+    "question": "What is the ownership type of Webb Medical Center in Sun City West, AZ?",
+    "answer": "The ownership type of Webb Medical Center in Sun City West, AZ is Private."
+  },
+  {
+    "question": "How does the average patient experience at Mayo Clinic Hospital in Phoenix, AZ compare to other hospitals in terms of quality of care?",
+    "answer": "The Mayo Clinic Hospital in Phoenix, AZ has a higher quality of care with an average patient experience, and it is considered Better in some aspects, but Lower in others, indicating a mixed but generally positive assessment of its quality of care compared to other hospitals."
+  },
+  {
+    "question": "Which hospital in Arizona has the highest average patient volume, and what is its ownership type?",
+    "answer": "The hospital with the highest average patient volume in Arizona is not explicitly stated, but based on the provided data, Abrazo Arrowhead Campus in Glendale, AZ has one of the highest patient volumes with 25293, and its ownership type is Proprietary."
+  },
+  {
+    "question": "What is the average number of times the term 'Average' appears in the context for Mercy Gilbert Medical Center and Mountain Vista Medical Center?",
+    "answer": "The term 'Average' appears 8 times for Mercy Gilbert Medical Center and 8 times for Mountain Vista Medical Center, resulting in an average of 8 occurrences for both medical centers."
+  },
+  {
+    "question": "How does the number of 'Above' and 'Below' mentions compare between Banner Gateway Medical Center and Scottsdale Thompson Peak Medical Center?",
+    "answer": "Banner Gateway Medical Center has 2 'Above' and 2 'Below' mentions, while Scottsdale Thompson Peak Medical Center has 5 'Above' mentions, indicating a significant difference in the comparison, with Scottsdale Thompson Peak Medical Center having more 'Above' mentions and no 'Below' mentions."
+  },
+  {
+    "question": "What can be inferred about the ownership structure of the medical centers based on the provided context?",
+    "answer": "The context suggests that the ownership structure of the medical centers varies, with some being proprietary, such as Mountain Vista Medical Center and Scottsdale Thompson Peak Medical Center, while others are private, like Banner Ironwood Medical Center, and some have unknown ownership, such as Banner Gateway Medical Center, indicating a mix of private and proprietary ownership among the listed medical centers."
+  },
+  {
+    "question": "What is the ownership type of Hospital Phoenix in AZ?",
+    "answer": "The ownership type of Hospital Phoenix in AZ is Private."
+  },
+  {
+    "question": "How does the performance of Lower Banner Goldfield Medical Center compare to others in terms of average measurements?",
+    "answer": "The performance of Lower Banner Goldfield Medical Center is reported as Average in terms of average measurements, with specific values including 14816 and 15948, indicating an average performance overall."
+  },
+  {
+    "question": "What are the key differences between Dignity Health - Arizona General Hospital and Wickenburg Community Hospital in terms of location and ownership type?",
+    "answer": "The key differences between Dignity Health - Arizona General Hospital and Wickenburg Community Hospital are their locations, with Dignity Health located in Laveen, AZ, and Wickenburg Community Hospital located in Wickenburg, AZ, and their ownership types, with Dignity Health being Proprietary and Wickenburg Community Hospital being Private."
+  },
+  {
+    "question": "What is the ownership type of Sage Memorial Hospital in Ganado, AZ?",
+    "answer": "The ownership type of Sage Memorial Hospital in Ganado, AZ is Private."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Copper Queen Community Hospital in Bisbee, AZ compare to others?",
+    "answer": "The patient satisfaction rating of Copper Queen Community Hospital in Bisbee, AZ is Average, which is the same as several other hospitals in the list, but the specific comparison to others is not provided in the given context."
+  },
+  {
+    "question": "What are the key differences between the La Paz Regional Hospital in Parker, AZ and the Cobre Valley Regional Medical Center in Globe, AZ in terms of patient satisfaction and quality of care?",
+    "answer": "The La Paz Regional Hospital in Parker, AZ has an Average patient satisfaction rating and Average quality of care, whereas the Cobre Valley Regional Medical Center in Globe, AZ also has an Average patient satisfaction rating and Average quality of care in some areas, but Lower quality of care in at least one area, indicating some differences in the perceived quality of care between the two hospitals."
+  },
+  {
+    "question": "What is the ownership type of Siloam Springs Regional Hospital and its corresponding patient experience rating?",
+    "answer": "The ownership type of Siloam Springs Regional Hospital is Unknown, and its patient experience rating is Average."
+  },
+  {
+    "question": "How does the patient experience rating of Washington Regional Medical Center compare to that of Chi-st Vincent Infirmary in terms of being 'Average' or 'Worse'?",
+    "answer": "Washington Regional Medical Center has a mix of 'Average' and 'Worse' patient experience ratings, whereas Chi-st Vincent Infirmary has a mix of 'Average' ratings, indicating a slightly better overall performance for Chi-st Vincent Infirmary."
+  },
+  {
+    "question": "What are the differences in the number of beds and patient experience ratings between Mercy Hospital Northwest Arkansas and White County Medical Center?",
+    "answer": "Mercy Hospital Northwest Arkansas has 4 beds and an 'Average' patient experience rating, whereas White County Medical Center has 4 beds and an 'Average' patient experience rating as well, with some variations in specific ratings, indicating similar overall characteristics between the two hospitals."
+  },
+  {
+    "question": "What is the average patient experience rating for Conway Regional Medical Center?",
+    "answer": "The average patient experience rating for Conway Regional Medical Center is Average, with specific ratings of Below, Above, Above, Above, Same, Above, and Same for different aspects of care."
+  },
+  {
+    "question": "How does the readmission rate of Baptist Health Medical Center North Little Rock compare to the national average?",
+    "answer": "The readmission rate of Baptist Health Medical Center North Little Rock is Average, which is the same as the national average, indicating that the hospital's readmission rate is neither significantly higher nor lower than the national average."
+  },
+  {
+    "question": "Which hospital in the list has the highest number of staffed beds, and what is its ownership type?",
+    "answer": "The hospital with the highest number of staffed beds is Baptist Health Medical Center-hot Springs County, with 4 beds, and its ownership type is Private."
+  },
+  {
+    "question": "What type of ownership does Baptist Health Medical Center-stuttgart have?",
+    "answer": "Baptist Health Medical Center-stuttgart is a privately owned hospital."
+  },
+  {
+    "question": "How does the average performance of Saline Memorial Hospital compare to other hospitals in terms of quality metrics?",
+    "answer": "Saline Memorial Hospital has an average performance in terms of quality metrics, with some areas being above average and others being below average, similar to other hospitals in the list."
+  },
+  {
+    "question": "Which hospital has the highest number of beds among the listed hospitals?",
+    "answer": "Arkansas Surgical Hospital and St Vincent Medical Centernorth have the highest number of beds among the listed hospitals, with 5 beds, but it is essential to note that the number of beds may not be the only factor in determining the quality of care provided by a hospital."
+  },
+  {
+    "question": "What is the average patient experience rating for Arkansas Surgical Hospital in Little Rock, AR?",
+    "answer": "The average patient experience rating for Arkansas Surgical Hospital in Little Rock, AR is Average, with a rating of 19006."
+  },
+  {
+    "question": "How does the patient experience rating of Northwest Health Physicians Specialty Hospital in Fayetteville, AR compare to the national average?",
+    "answer": "The patient experience rating of Northwest Health Physicians Specialty Hospital in Fayetteville, AR is Better, with a rating of 20286, which is higher than the national average."
+  },
+  {
+    "question": "What is the ownership type and patient experience rating of Stone County Medical Center in Mountain View, AR?",
+    "answer": "The ownership type of Stone County Medical Center in Mountain View, AR is Private, and the patient experience rating is Average, with a rating of 15810, and the hospital has an Above average rating for certain aspects of patient care."
+  },
+  {
+    "question": "What is the ownership type of Lawrence Memorial Hospital and what is its location?",
+    "answer": "Lawrence Memorial Hospital is a Government-owned hospital located in Walnut Ridge, AR."
+  },
+  {
+    "question": "How does the performance of Stone County Medical Center compare to that of Howard Memorial Hospital in terms of their average patient ratings?",
+    "answer": "Both Stone County Medical Center and Howard Memorial Hospital have Average patient ratings, indicating similar performance in this aspect, despite differences in their ownership types and locations."
+  },
+  {
+    "question": "Which hospital has the highest average patient rating among the listed hospitals and what is its ownership type?",
+    "answer": "Mercy Hospital Booneville has the highest average patient rating, classified as Higher, and it is a Private hospital located in Booneville, AR."
+  },
+  {
+    "question": "What is the ownership type of Delta Memorial Hospital located in Dumas, AR?",
+    "answer": "The ownership type of Delta Memorial Hospital is Private."
+  },
+  {
+    "question": "How does the average patient experience at St Rose Hospital in Hayward, CA compare to other hospitals?",
+    "answer": "The average patient experience at St Rose Hospital is Higher, with a rating of 27618, indicating a better patient experience compared to other hospitals."
+  },
+  {
+    "question": "What are the differences in hospital type between Bradley County Medical Center and Mercy Hospital Berryville, both located in Arkansas?",
+    "answer": "Bradley County Medical Center is a Private hospital, while Mercy Hospital Berryville is a Church-owned hospital, indicating a difference in their ownership and potentially their operational structures and values."
+  },
+  {
+    "question": "What is the average patient experience rating for Queen Of The Valley Medical Center in Napa, CA?",
+    "answer": "The average patient experience rating for Queen Of The Valley Medical Center in Napa, CA is Average."
+  },
+  {
+    "question": "How does the readmission rate of Adventist Health St Helena compare to the national average?",
+    "answer": "The readmission rate of Adventist Health St Helena is Lower compared to the national average."
+  },
+  {
+    "question": "Which hospital in the provided context has the highest number of staff and what is its ownership type?",
+    "answer": "Alta Bates Summit Medical Center has the highest number of staff with 5, and its ownership type is Private."
+  },
+  {
+    "question": "What is the ownership type of Alta Bates Summit Medical Center in Oakland, CA?",
+    "answer": "The ownership type of Alta Bates Summit Medical Center in Oakland, CA is Private."
+  },
+  {
+    "question": "How does the patient satisfaction rating of El Centro Regional Medical Center compare to the national average?",
+    "answer": "The patient satisfaction rating of El Centro Regional Medical Center is Average, which is the same as the national average."
+  },
+  {
+    "question": "Which hospital in the list has the highest number of beds, and what is its location?",
+    "answer": "The hospital with the highest number of beds is not explicitly stated, but San Gorgonio Memorial Hospital has 24081, however, it is not the beds, it is likely the number of patients, and it is located in Banning, CA."
+  },
+  {
+    "question": "What is the average patient experience rating for hospitals in California with a government ownership type?",
+    "answer": "The average patient experience rating for hospitals in California with a government ownership type is Average, with some hospitals like Lower Antelope Valley Hospital and Kaweah Delta Medical Center having an average rating, while Oak Valley Hospital District has unknown ratings due to insufficient data."
+  },
+  {
+    "question": "How does the readmission rate of Community Regional Medical Center compare to that of Hollywood Presbyterian Medical Center?",
+    "answer": "The readmission rate of Community Regional Medical Center is Average, similar to that of Hollywood Presbyterian Medical Center, which also has an average readmission rate, indicating that both hospitals have comparable performance in terms of readmitting patients."
+  },
+  {
+    "question": "Which hospital in the provided data has the highest number of staff and what is its ownership type?",
+    "answer": "The hospital with the highest number of staff is St Joseph Hospital, with 25913 staff members, and its ownership type is Church, indicating that it is a non-profit hospital affiliated with a religious organization, which may influence its mission and values."
+  },
+  {
+    "question": "What is the hospital type of Scripps Mercy Hospital in San Diego, CA?",
+    "answer": "Scripps Mercy Hospital in San Diego, CA is a Private hospital."
+  },
+  {
+    "question": "How does the average patient experience at St Johns Regional Medical Center compare to other hospitals?",
+    "answer": "The average patient experience at St Johns Regional Medical Center is reported as Average, with some aspects being Higher, such as patient satisfaction, and others being Average, indicating a mixed but generally positive patient experience compared to other hospitals."
+  },
+  {
+    "question": "Which hospital in the provided data has the highest average patient volume, and what is its location?",
+    "answer": "The hospital with the highest average patient volume in the provided data is Sharp Memorial Hospital, located in San Diego, CA, with an average patient volume of 23706, although other hospitals may have higher volumes in specific categories, Sharp Memorial Hospital has the highest overall average patient volume."
+  },
+  {
+    "question": "What is the average patient rating for White Memorial Medical Center in Los Angeles, CA?",
+    "answer": "The average patient rating for White Memorial Medical Center in Los Angeles, CA is Average."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Saint Francis Medical Center in Lynwood, CA compare to the national average?",
+    "answer": "The patient satisfaction rating of Saint Francis Medical Center in Lynwood, CA is Average, which is similar to the national average, but some aspects such as Below average and Higher ratings are also present."
+  },
+  {
+    "question": "Which hospital in the provided context has the highest number of beds, and what is its ownership type?",
+    "answer": "The hospital with the highest number of beds mentioned in the context is Palomar Health Downtown Campus with 4 beds, and its ownership type is Government, however, other hospitals like Santa Monica - Ucla Med Ctr  Orthopaedic Hospital also have 5 beds and are privately owned."
+  },
+  {
+    "question": "What is the average number of patients at Regional Medical Center Of San Jose?",
+    "answer": "The average number of patients at Regional Medical Center Of San Jose is 17165, with an average rating and government ownership."
+  },
+  {
+    "question": "How does Valley Presbyterian Hospital compare to Woodland Memorial Hospital in terms of patient numbers and ownership?",
+    "answer": "Valley Presbyterian Hospital has a higher average number of patients at 26261, compared to Woodland Memorial Hospital at 16130, and both have unknown ownership types, but Valley Presbyterian Hospital has a higher rating in some categories."
+  },
+  {
+    "question": "What are the key differences between Kaiser Foundation Hospital - Panorama City and Community Hospital Of The Monterey Peninsula in terms of location, ownership, and patient numbers?",
+    "answer": "Kaiser Foundation Hospital - Panorama City is located in Panorama City, CA, with private ownership and unknown patient numbers, whereas Community Hospital Of The Monterey Peninsula is located in Monterey, CA, with private ownership and an average of 24438 patients, indicating significant differences in location and patient volume."
+  },
+  {
+    "question": "What is the average patient experience rating for Kaiser Foundation Hospital Fontana?",
+    "answer": "The average patient experience rating for Kaiser Foundation Hospital Fontana is Average."
+  },
+  {
+    "question": "How does the patient experience rating of Community Hospital Of The Monterey Peninsula compare to California Hospital Medical Center La?",
+    "answer": "Community Hospital Of The Monterey Peninsula has an Above average patient experience rating, whereas California Hospital Medical Center La has a Below average patient experience rating."
+  },
+  {
+    "question": "Which hospital has the highest number of patients and what is its ownership type?",
+    "answer": "St Jude Medical Center has one of the highest numbers of patients with 25366, and its ownership type is Church."
+  },
+  {
+    "question": "What is the ownership type of St Mary Medical Center in Long Beach, CA?",
+    "answer": "The ownership type of St Mary Medical Center in Long Beach, CA is Church."
+  },
+  {
+    "question": "How does the rating of Washington Hospital in Fremont, CA compare to the average, and what is its overall patient experience rating?",
+    "answer": "Washington Hospital in Fremont, CA has an average rating, and its overall patient experience rating is Better, with some ratings being Average and one being Lower."
+  },
+  {
+    "question": "Which hospital in the list has the highest number of beds, and what is its ownership type?",
+    "answer": "The hospital with the highest number of beds is East Valley Glendora Hospital with 26254 beds, but since the number of beds is not consistently available for comparison, considering the available data, Sequoia Hospital with 23439 beds is notable, and its ownership type is Private."
+  },
+  {
+    "question": "What is the average patient rating for Zuckerberg San Francisco General Hospital?",
+    "answer": "The average patient rating for Zuckerberg San Francisco General Hospital is Average, with a score of 19912, which is considered Higher."
+  },
+  {
+    "question": "How does the average patient rating of Garden Grove Hospital Medical Center compare to that of French Hospital Medical Center?",
+    "answer": "The average patient rating of Garden Grove Hospital Medical Center is Average, with a score of 15537, which is considered Lower, whereas the average patient rating of French Hospital Medical Center is Average, with a score of 20568, which is considered Higher, indicating a better patient rating at French Hospital Medical Center."
+  },
+  {
+    "question": "Which hospital has the highest average patient rating among the listed hospitals in California?",
+    "answer": "The hospital with the highest average patient rating among the listed hospitals in California is Desert Regional Medical Center, with a score of 26153, which is considered Higher, indicating an above-average patient rating."
+  },
+  {
+    "question": "What is the ownership type of Marshall Medical Center in Placerville, CA?",
+    "answer": "The ownership type of Marshall Medical Center in Placerville, CA is Private."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Ronald Reagan U C L A Medical Center compare to the national average?",
+    "answer": "The patient satisfaction rating of Ronald Reagan U C L A Medical Center is higher than the national average in some aspects, with an average rating, but specific details about the comparison to the national average are not provided for all categories."
+  },
+  {
+    "question": "What are the differences in the number of beds between Mercy Medical Center Redding and Alhambra Hospital Medical Center?",
+    "answer": "The number of beds at Mercy Medical Center Redding is 1, which is lower than Alhambra Hospital Medical Center, which has 4 beds, indicating a significant difference in the capacity of the two medical centers."
+  },
+  {
+    "question": "What is the average rating of hospitals in California based on the provided data?",
+    "answer": "The average rating of hospitals in California is Average, with most hospitals having an average rating, and some having better or worse ratings in specific categories."
+  },
+  {
+    "question": "How does the rating of Sutter Santa Rosa Regional Hospital compare to other hospitals in terms of quality of care?",
+    "answer": "Sutter Santa Rosa Regional Hospital has a rating of Average in terms of quality of care, which is similar to many other hospitals in the list, but some hospitals like El Camino Hospital have a Higher rating in certain categories."
+  },
+  {
+    "question": "What are the differences in ratings between private and government-owned hospitals in the provided data?",
+    "answer": "The data shows that private hospitals like Sutter Santa Rosa Regional Hospital and Loma Linda University Medical Center have Average ratings, while government-owned hospitals like Riverside University Health System-Medical Center and Highland Hospital have Average ratings as well, but with some variations in specific categories, indicating that the type of ownership does not necessarily determine the quality of care."
+  },
+  {
+    "question": "What is the average rating of hospitals in California with an ownership type of 'Private'?",
+    "answer": "The average rating of hospitals in California with an ownership type of 'Private' is Average, with hospitals like Loma Linda University Medical Center, Beverly Hospital, and Barton Memorial Hospital having average ratings."
+  },
+  {
+    "question": "How does the rating of Scripps Memorial Hospital La Jolla compare to the rating of University Of California Irvine Med Center?",
+    "answer": "The rating of Scripps Memorial Hospital La Jolla is Unknown, while the rating of University Of California Irvine Med Center is Average, indicating that University Of California Irvine Med Center has a more stable and consistent rating."
+  },
+  {
+    "question": "Which hospital in California has the highest average rating among those with an ownership type of 'Church'?",
+    "answer": "The hospital in California with the highest average rating among those with an ownership type of 'Church' is Providence Little Company Of Mary Med Ctr Torrance, with an average rating of Better and Higher in some categories, indicating a high level of quality care."
+  },
+  {
+    "question": "What is the ownership type of Lower Marin General Hospital in Greenbrae, CA?",
+    "answer": "The ownership type of Lower Marin General Hospital in Greenbrae, CA is Government."
+  },
+  {
+    "question": "How does the performance of Northbay Medical Center in Fairfield, CA compare to the others in terms of the number of categories with 'Below' performance?",
+    "answer": "Northbay Medical Center in Fairfield, CA has multiple categories with 'Below' performance, which is similar to some other hospitals, but the exact comparison requires analyzing each hospital's performance categories."
+  },
+  {
+    "question": "What are the cities and states where the hospitals with 'Government' ownership type are located, and what are the corresponding hospital names?",
+    "answer": "The hospitals with 'Government' ownership type are located in Greenbrae, CA (Lower Marin General Hospital), Los Angeles, CA (Lacusc Medical Center), Torrance, CA (Lacharbor-ucla Med Center), and Coalinga, CA (Coalinga Regional Medical Center), and Crescent City, CA (Sutter Coast Hospital)."
+  },
+  {
+    "question": "What is the average number of patients treated at Kaiser Foundation Hospital - South Bay in Harbor City, CA?",
+    "answer": "The average number of patients treated is not explicitly stated, but the hospital has an average rating and the number of patients for some categories is listed as unknown or zero."
+  },
+  {
+    "question": "How does the quality of care at Mercy Hospital Of Folsom compare to other hospitals in terms of being above or below average?",
+    "answer": "The quality of care at Mercy Hospital Of Folsom is rated as above average in some categories, such as having an above average rating for certain patient outcomes, but is also rated as below average in other categories, indicating a mixed level of quality care."
+  },
+  {
+    "question": "What are the differences in hospital type and patient outcomes between Sutter Coast Hospital and Palo Verde Hospital, both located in California?",
+    "answer": "Sutter Coast Hospital is a government hospital, whereas Palo Verde Hospital is also a government hospital, but they have different patient outcomes, with Sutter Coast Hospital having above average ratings in some categories and Palo Verde Hospital having below average or unknown ratings, indicating varying levels of care and patient outcomes between the two hospitals."
+  },
+  {
+    "question": "What is the ownership type of Better Average Doctors Medical Center in Modesto, CA?",
+    "answer": "The ownership type of Better Average Doctors Medical Center in Modesto, CA is Proprietary."
+  },
+  {
+    "question": "How does the performance of John Muir Medical Center - Concord Campus compare to other hospitals in terms of quality measures?",
+    "answer": "John Muir Medical Center - Concord Campus performs above average in several quality measures, including having an above average rating for overall quality, with a score of Above, and also having above average ratings for some specific quality measures."
+  },
+  {
+    "question": "Which hospital has the highest number of beds among the listed hospitals, and what is its ownership type?",
+    "answer": "The hospital with the highest number of beds is not explicitly stated, but the hospital with the highest number of mentioned beds is Memorial Hospital Of Gardena with 25107 beds, and its ownership type is Proprietary, while other hospitals such as John Muir Medical Center - Concord Campus and Scripps Memorial Hospital - Encinitas also have a significant number of beds."
+  },
+  {
+    "question": "What is the ownership type of Kaiser Foundation Hospital - Zion in San Diego, CA?",
+    "answer": "The ownership type of Kaiser Foundation Hospital - Zion in San Diego, CA is Private."
+  },
+  {
+    "question": "How does the performance of Victor Valley Global Medical Center compare to other hospitals in terms of its rating?",
+    "answer": "The performance of Victor Valley Global Medical Center is rated as Average in several categories, including its overall rating, with some categories being rated as Above or Below average, indicating a mixed performance compared to other hospitals."
+  },
+  {
+    "question": "What are the key similarities and differences between the ratings of Los Robles Hospital Medical Center and John F Kennedy Memorial Hospital?",
+    "answer": "Both Los Robles Hospital Medical Center and John F Kennedy Memorial Hospital have some similarities in their ratings, with both being rated as Average in several categories, but they also have differences, such as Los Robles Hospital Medical Center being rated as Worse in one category and John F Kennedy Memorial Hospital being rated as Higher in another category, indicating varying levels of performance between the two hospitals."
+  },
+  {
+    "question": "What is the average patient rating for Los Robles Hospital Medical Center in Thousand Oaks, CA?",
+    "answer": "The average patient rating for Los Robles Hospital Medical Center is Average, with specific ratings of Average for various aspects of care."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Memorial Medical Center in Modesto, CA compare to that of Kaiser Foundation Hospital - West La in Los Angeles, CA?",
+    "answer": "The patient satisfaction rating of Memorial Medical Center is Average, while the data for Kaiser Foundation Hospital - West La is incomplete, making a direct comparison challenging."
+  },
+  {
+    "question": "Which hospital in the provided list has the highest average patient volume, and what is its ownership type?",
+    "answer": "Fountain Valley Regional Hospital Medical Center has the highest average patient volume at 28535, and it is a Proprietary hospital."
+  },
+  {
+    "question": "What is the average patient experience rating for Higher Methodist Hospital Of Sacramento?",
+    "answer": "The average patient experience rating for Higher Methodist Hospital Of Sacramento is Average, with specific ratings available for various aspects of care."
+  },
+  {
+    "question": "How does the patient experience rating of Cedars-sinai Medical Center compare to that of Kaiser Foundation Hospital-san Jose?",
+    "answer": "Cedars-sinai Medical Center has a higher patient experience rating, with a rating of Better or Higher in multiple categories, whereas Kaiser Foundation Hospital-san Jose has an average patient experience rating, with some categories rated as Average or Unknown."
+  },
+  {
+    "question": "Which hospital has the highest number of beds among the listed hospitals in California, and what is its patient experience rating?",
+    "answer": "Cedars-sinai Medical Center has the highest number of beds, with 5, and its patient experience rating is Better or Higher in multiple categories, indicating a high level of patient satisfaction with the care provided."
+  },
+  {
+    "question": "What type of hospital is the Laguna Honda Hospital Rehabilitation Center in San Francisco, CA?",
+    "answer": "The Laguna Honda Hospital Rehabilitation Center in San Francisco, CA is a Government hospital."
+  },
+  {
+    "question": "How does the average patient experience at Kaiser Foundation Hosp So Sacramento compare to the average patient experience at Orange Coast Memorial Medical Center?",
+    "answer": "The average patient experience at Kaiser Foundation Hosp So Sacramento is reported as Average, while the average patient experience at Orange Coast Memorial Medical Center is also reported as Average, indicating a similar level of patient satisfaction between the two hospitals."
+  },
+  {
+    "question": "Which hospital in the provided context has the highest reported average patient experience, and what is its location?",
+    "answer": "The hospital with the highest reported average patient experience is not explicitly stated, but among the hospitals with available data, Menifee Valley Medical Center has an Average patient experience, and it is located in Sun City, CA, while some hospitals like Southwest Healthcare System have Higher patient experience in certain aspects, but the overall highest average is not clearly identifiable from the given context."
+  },
+  {
+    "question": "What is the average number of beds in hospitals with a higher average rating?",
+    "answer": "The average number of beds in hospitals with a higher average rating is not explicitly stated, but based on the data, hospitals like Garfield Medical Center and Centinela Hospital Medical Center have a higher average rating and 4 beds, while Kaiser Foundation Hospital - Fresno has a higher average rating but the number of beds is unknown."
+  },
+  {
+    "question": "How do the average ratings of private and proprietary hospitals compare?",
+    "answer": "The average ratings of private and proprietary hospitals are mixed, with some private hospitals like Mission Community Hospital having a higher average rating, while others like Kaiser Foundation Hospital - Fresno have an unknown average rating, and proprietary hospitals like Desert Valley Hospital and Bakersfield Heart Hospital having average or lower average ratings."
+  },
+  {
+    "question": "Which hospital has the highest average number of beds and what is its average rating?",
+    "answer": "The hospital with the highest average number of beds is not explicitly stated, but based on the data, Stanislaus Surgical Hospital has 5 beds and an average rating, while Sutter Maternity and Surgery Center Of Santa Cruz also has 5 beds but an unknown average rating, and Garfield Medical Center has 4 beds and a higher average rating."
+  },
+  {
+    "question": "What is the ownership type of the Greater El Monte Community Hospital in South El Monte, CA?",
+    "answer": "The Greater El Monte Community Hospital in South El Monte, CA is a Private hospital."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Centinela Hospital Medical Center in Inglewood, CA compare to the national average?",
+    "answer": "The patient satisfaction rating of Centinela Hospital Medical Center in Inglewood, CA is rated as Better, which is higher than the national average."
+  },
+  {
+    "question": "What is the difference in the number of beds between Sherman Oaks Hospital and Alvarado Hospital Medical Center?",
+    "answer": "Sherman Oaks Hospital has 3 beds, while Alvarado Hospital Medical Center has 5 beds, resulting in a difference of 2 beds."
+  },
+  {
+    "question": "What is the average patient experience rating for hospitals in California with a proprietary ownership type?",
+    "answer": "The average patient experience rating for hospitals in California with a proprietary ownership type is Average, with some hospitals like Silver Lake Medical Center and Coast Plaza Hospital having an Average rating, while others like Temecula Valley Hospital also have an Average rating."
+  },
+  {
+    "question": "How does the hospital size of Kaiser Foundation Hospital - Antioch compare to Providence Tarzana Medical Center?",
+    "answer": "Kaiser Foundation Hospital - Antioch has a hospital size of 3, whereas Providence Tarzana Medical Center has a hospital size of 4, indicating that Providence Tarzana Medical Center is slightly larger than Kaiser Foundation Hospital - Antioch."
+  },
+  {
+    "question": "What is the mortality rate for patients at Shasta Regional Medical Center compared to the national average?",
+    "answer": "The mortality rate for patients at Shasta Regional Medical Center is Average, with a rating of Average for some conditions, but Worse for others, indicating that the hospital's mortality rate is mixed compared to the national average, with some areas for improvement."
+  },
+  {
+    "question": "What is the ownership type of Lower College Medical Center in Long Beach, CA?",
+    "answer": "The ownership type of Lower College Medical Center in Long Beach, CA is Proprietary."
+  },
+  {
+    "question": "How does the average measure of Kaiser Foundation Hospital - San Leandro compare to others in terms of the provided numerical values?",
+    "answer": "The average measure of Kaiser Foundation Hospital - San Leandro is higher compared to some of the provided numerical values, such as 16702, 18147, and 20786, but the exact comparison is unclear due to the presence of unknown values."
+  },
+  {
+    "question": "What are the similarities and differences in the types of hospitals mentioned, including Loma Linda University Children's Hospital and Kaiser Foundation Hospital - San Leandro?",
+    "answer": "Loma Linda University Children's Hospital is a church-owned hospital, whereas Kaiser Foundation Hospital - San Leandro is a private hospital, indicating a difference in ownership type. However, both hospitals have the same number of mentions for certain attributes, such as 'Same' and 'Unknown', which may suggest some similarities in their data or categorization."
+  },
+  {
+    "question": "What is the ownership type of Community Hospital in Los Angeles, CA?",
+    "answer": "The ownership type of Community Hospital in Los Angeles, CA is Private."
+  },
+  {
+    "question": "How does the performance of Foothill Regional Medical Center in Tustin, CA compare to the average in terms of certain metrics?",
+    "answer": "The performance of Foothill Regional Medical Center in Tustin, CA is Average in some metrics and Higher in others, but most of the specific metrics are unknown."
+  },
+  {
+    "question": "Which hospital in the list has the highest number of beds, and what is its ownership type?",
+    "answer": "The hospital with the highest number of beds mentioned in the list is Adventist Health Howard Memorial with 4 beds, and its ownership type is Church."
+  },
+  {
+    "question": "What is the ownership type of Jerold Phelps Community Hospital in Garberville, CA?",
+    "answer": "The ownership type of Jerold Phelps Community Hospital in Garberville, CA is Government."
+  },
+  {
+    "question": "How does the performance of Adventist Health Howard Memorial in Willits, CA compare to other hospitals in terms of patient care?",
+    "answer": "Adventist Health Howard Memorial in Willits, CA has an average performance, with ratings of Average for patient care, and its overall performance is comparable to other hospitals, with some areas rated as Above average."
+  },
+  {
+    "question": "What are the differences in hospital type and patient care ratings between Mercy Medical Center Mt Shasta and Northern Inyo Hospital?",
+    "answer": "Mercy Medical Center Mt Shasta is an unknown type of hospital, while Northern Inyo Hospital is a Government hospital, and in terms of patient care ratings, Mercy Medical Center Mt Shasta has average ratings, while Northern Inyo Hospital has average ratings, but with a higher rating for one of the care metrics."
+  },
+  {
+    "question": "What is the hospital type of Mendocino Coast District Hospital?",
+    "answer": "Mendocino Coast District Hospital is a Government hospital."
+  },
+  {
+    "question": "How does the performance of Sutter Lakeside Hospital compare to the average in terms of its rating?",
+    "answer": "Sutter Lakeside Hospital has an Average performance rating, which is comparable to the average, and in some aspects, it has an Above average rating, indicating a higher than average performance in those areas."
+  },
+  {
+    "question": "What are the differences between the ownership types of hospitals mentioned, such as Government, Private, and Unknown?",
+    "answer": "The main differences between the ownership types of hospitals mentioned are that Government hospitals are publicly owned and funded, Private hospitals are owned and operated by private entities, and Unknown hospitals have an unspecified or unclear ownership type, which may affect their funding, management, and operational structures."
+  },
+  {
+    "question": "What is the hospital type of Lucile Salter Packard Children's Hospital At Stanford and its location?",
+    "answer": "The hospital type of Lucile Salter Packard Children's Hospital At Stanford is Private and it is located in Palo Alto, California."
+  },
+  {
+    "question": "How does the hospital rating of North Colorado Medical Center compare to the overall average, and what are its specific ratings?",
+    "answer": "The hospital rating of North Colorado Medical Center is Average, with specific ratings of Same, Same, Above, Same, Above, Same, and Same for various categories, indicating a generally average performance with some areas of excellence."
+  },
+  {
+    "question": "Which city in Colorado has the most hospitals listed, and what are the names of these hospitals?",
+    "answer": "The city of Denver and surrounding areas in Colorado have multiple hospitals listed, but specifically, the hospitals mentioned in the context that are located in or near Denver are Denver Health Medical Center, Lutheran Medical Center, and North Colorado Medical Center is located in Greeley, however, other hospitals are located in nearby cities such as Longmont, Brighton, and Fort Collins."
+  },
+  {
+    "question": "What is the average patient volume for hospitals in Colorado with a government ownership type?",
+    "answer": "The average patient volume for hospitals in Colorado with a government ownership type is around 17500 to 18500, with some hospitals like University Colo Health Memorial Hospital Central having a higher patient volume of 24159 and others like Denver Health Medical Center having a lower patient volume of 23283."
+  },
+  {
+    "question": "How does the patient volume of Centura Health-st Mary Corwin Medical Center compare to that of Presbyterian St Lukes Medical Center?",
+    "answer": "The patient volume of Centura Health-st Mary Corwin Medical Center is lower than that of Presbyterian St Lukes Medical Center, with 21605 patients compared to 22538 patients, respectively, indicating a difference of around 900 patients."
+  },
+  {
+    "question": "What is the ownership type and patient volume of the hospital with the highest patient volume in the given data?",
+    "answer": "The hospital with the highest patient volume in the given data is Foothills Hospital, which has a private ownership type and a patient volume of 27525, indicating a significantly higher patient volume compared to other hospitals in the data."
+  },
+  {
+    "question": "What type of ownership does Mckee Medical Center have and how many stars does it have for its overall rating?",
+    "answer": "Mckee Medical Center has private ownership and it has an average overall rating with 3 stars."
+  },
+  {
+    "question": "How does the average cost of Rose Medical Center compare to the average cost of other hospitals in Colorado, and what is its ownership type?",
+    "answer": "Rose Medical Center has an average cost and its ownership type is proprietary, similar to some other hospitals in Colorado, but the costs may vary depending on the specific services provided."
+  },
+  {
+    "question": "Which hospital in Colorado has the highest number of stars for its overall rating among the ones listed, and what is its ownership type?",
+    "answer": "Delta County Memorial Hospital has the highest number of stars for its overall rating with 4 stars, but its overall rating is same, and its ownership type is government, however, other hospitals like Swedish Medical Center also have a high number of stars with 4 stars and proprietary ownership."
+  },
+  {
+    "question": "What is the average patient experience rating for Centura Health-avista Adventist Hospital in Louisville, CO?",
+    "answer": "The average patient experience rating for Centura Health-avista Adventist Hospital in Louisville, CO is Average, with specific ratings of 23132 for one measure, 18470 for another, and 18004 for a third measure, all of which are classified as Average."
+  },
+  {
+    "question": "How does the readmission rate of Aurora compare to that of St Anthony North Health Campus?",
+    "answer": "Aurora has a readmission rate classified as Worse, while St Anthony North Health Campus has a readmission rate classified as Lower, indicating that St Anthony North Health Campus has a better readmission rate compared to Aurora."
+  },
+  {
+    "question": "Which hospital in the provided data has the highest number of staff and is located in the city of Littleton, CO?",
+    "answer": "Centura Health-littleton Adventist Hospital, located in Littleton, CO, has a staff rating of 3, but the hospital with the highest number of staff in the provided data is Medical Center Of The Rockies, with a rating of 5, however, it is not located in Littleton, CO, it is located in Loveland, CO, so the answer is Centura Health-littleton Adventist Hospital for the location, but not the highest staff rating."
+  },
+  {
+    "question": "What is the hospital type of Scl Health Community Hospital- Northglenn and its location?",
+    "answer": "Scl Health Community Hospital- Northglenn is a Proprietary hospital located in Northglenn, Colorado."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Rio Grande Hospital compare to the average, and what is its location?",
+    "answer": "Rio Grande Hospital has an Average patient satisfaction rating and is located in Del Norte, Colorado."
+  },
+  {
+    "question": "Which hospitals in the list have a Government ownership type, and how many of them are there?",
+    "answer": "The hospitals with a Government ownership type are Weisbrod Memorial County Hospital, East Morgan County Hospital, Haxtun Hospital District, Melissa Memorial Hospital, Rangely District Hospital, Sedgwick County Memorial Hospital, Southeast Colorado Hospital, and Estes Park Medical Center, totaling 8 hospitals."
+  },
+  {
+    "question": "What is the average patient population served by the hospitals in the given context?",
+    "answer": "The average patient population served by the hospitals in the given context varies, with some hospitals serving a higher average population, such as Kit Carson County Memorial Hospital with 23073, while others serve a lower average population, such as Middle Park Medical Center with 0, and the overall average is not explicitly stated but can be calculated from the given data."
+  },
+  {
+    "question": "How do the hospitals in the context compare in terms of their government ownership and patient population?",
+    "answer": "The hospitals in the context are primarily government-owned, with all listed hospitals having 'Government' as their ownership type, except for Mt San Rafael Hospital which is listed as 'Private', and the patient population served by these hospitals varies, with some serving a higher average population and others serving a lower average population, but all are classified as either 'Average' or 'Unknown' in terms of their patient population size."
+  },
+  {
+    "question": "What can be inferred about the hospital with the highest patient population, and what are its characteristics?",
+    "answer": "The hospital with the highest patient population is Kit Carson County Memorial Hospital, with a patient population of 23073, and its characteristics include being a government-owned hospital, located in Burlington, CO, with a rating of 'Higher' for its patient population size, and an overall average rating for its quality of care, but the specific details of its quality of care and other metrics are not fully available in the given context."
+  },
+  {
+    "question": "What is the average number of beds in hospitals located in Colorado?",
+    "answer": "The average number of beds in hospitals located in Colorado varies, with some hospitals having an average of 16634 beds, while others have an average of 18726, 19318, or 0 beds, indicating that the number of beds can differ significantly between hospitals in the state."
+  },
+  {
+    "question": "How does the ownership structure of Arkansas Valley Regional Medical Center compare to that of Aspen Valley Hospital?",
+    "answer": "Arkansas Valley Regional Medical Center is a private hospital, whereas Aspen Valley Hospital is a government-owned hospital, indicating a difference in their ownership structures and potentially affecting their operations and management."
+  },
+  {
+    "question": "What can be inferred about the quality of care provided by St Francis Hospital Medical Center based on the available data?",
+    "answer": "St Francis Hospital Medical Center has above-average ratings in several categories, including having 23366 and 17334 as average numbers, and being classified as having higher or better ratings in some areas, suggesting that the hospital may provide high-quality care to its patients, although the exact nature of these ratings is unclear due to the limited context provided."
+  },
+  {
+    "question": "What is the average patient rating for Lawrence Memorial Hospital in New London, CT?",
+    "answer": "The average patient rating for Lawrence Memorial Hospital is Average, with specific ratings of Average for various aspects of care."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Bridgeport Hospital compare to that of Greenwich Hospital Association?",
+    "answer": "The patient satisfaction rating of Bridgeport Hospital is Average, while the rating for Greenwich Hospital Association is also Average, indicating similar patient satisfaction levels between the two hospitals."
+  },
+  {
+    "question": "Which hospital in the provided data has the highest number of beds, and what is its ownership type?",
+    "answer": "The hospital with the highest number of beds is not explicitly stated, but Yale-new Haven Hospital has 4 beds and is privately owned, while other hospitals like Lawrence Memorial Hospital and Windham Comm Mem Hosp also have 4 beds, with Lawrence Memorial Hospital being privately owned and Windham Comm Mem Hosp being privately owned as well."
+  },
+  {
+    "question": "What is the hospital type of William W Backus Hospital and what is its location?",
+    "answer": "William W Backus Hospital is of unknown type and is located in Norwich, CT."
+  },
+  {
+    "question": "Which hospitals have an 'Above' rating for at least one category and what are their respective locations?",
+    "answer": "Hospitals with an 'Above' rating for at least one category include Norwalk Hospital Association, Hospital Of Central Connecticut, The, John Dempsey Hospital, and Bristol Hospital, located in Norwalk, New Britain, Farmington, and Bristol, CT respectively."
+  },
+  {
+    "question": "What are the differences between the hospital types of Hartford Hospital, Manchester Memorial Hospital, and St Vincent's Medical Center?",
+    "answer": "The hospital types of Hartford Hospital, Manchester Memorial Hospital, and St Vincent's Medical Center are Private, Private, and Church respectively, indicating differences in their ownership and operational structures."
+  },
+  {
+    "question": "What is the average patient rating for Newark hospital in Delaware?",
+    "answer": "The average patient rating for Newark hospital in Delaware is Average."
+  },
+  {
+    "question": "How does the patient satisfaction rating of Bayhealth Hospital, Kent Campus compare to that of Nanticoke Memorial Hospital?",
+    "answer": "The patient satisfaction rating of Bayhealth Hospital, Kent Campus is Average, while that of Nanticoke Memorial Hospital is also Average, indicating similar patient satisfaction levels between the two hospitals."
+  },
+  {
+    "question": "Which hospital in Washington DC has the highest average patient rating, and what is its corresponding patient satisfaction rating?",
+    "answer": "The hospital in Washington DC with the highest average patient rating is Medstar Washington Hospital Center, with an average patient rating of Average and a patient satisfaction rating of Higher."
+  },
+  {
+    "question": "What is the hospital type of Uf Health Jacksonville?",
+    "answer": "Uf Health Jacksonville is a Private hospital."
+  },
+  {
+    "question": "How does the average patient experience at Bethesda Hospital East compare to other hospitals?",
+    "answer": "Bethesda Hospital East has an Average patient experience, with some Above average and some Below average ratings, indicating a mixed patient experience compared to other hospitals."
+  },
+  {
+    "question": "Which hospital in the list has the highest number of ratings with an 'Above' status?",
+    "answer": "Orlando Health Orlando Regional Medical Center and Florida Hospital have multiple 'Above' ratings, but the hospital with the most 'Above' ratings is not explicitly stated, however, several hospitals have multiple 'Above' ratings, including Orlando Health Orlando Regional Medical Center and Florida Hospital, indicating a higher number of positive ratings."
+  },
+  {
+    "question": "What is the average number of beds in hospitals owned by the Sacred Heart Health System in Florida?",
+    "answer": "The average number of beds in hospitals owned by the Sacred Heart Health System in Florida is around 22456 for Sacred Heart Hospital and 23316 for Lower Bay Medical Center."
+  },
+  {
+    "question": "How does the number of beds in Mount Sinai Medical Center compare to that of Memorial Regional Hospital?",
+    "answer": "Mount Sinai Medical Center has 23131 beds, which is fewer than the 26071 beds in Memorial Regional Hospital, indicating a significant difference in the scale of operations between the two hospitals."
+  },
+  {
+    "question": "What types of hospital ownership are represented in the list of hospitals in Florida, and what are their characteristics?",
+    "answer": "The list of hospitals in Florida includes private, government, proprietary, and church-owned hospitals, each with distinct characteristics such as the number of beds, patient satisfaction, and quality of care, with examples including Sacred Heart Hospital, Lower Bay Medical Center, and Mount Sinai Medical Center."
+  },
+  {
+    "question": "What is the average patient experience rating for hospitals in Florida that are owned by a church?",
+    "answer": "The average patient experience rating for hospitals in Florida that are owned by a church is Average, with specific ratings varying by hospital, including Florida Hospital Zephyrhills, Florida Hospital Waterman, and Florida Hospital Memorial Medical Center."
+  },
+  {
+    "question": "How does the patient experience rating of Winter Haven Hospital compare to the average rating of other private hospitals in Florida?",
+    "answer": "Winter Haven Hospital has a patient experience rating of Average, which is comparable to the average rating of other private hospitals in Florida, such as Jay Hospital and Morton Plant North Bay Hospital, although some private hospitals like Larkin Community Hospital Palm Springs Campus have a Better rating in certain categories."
+  },
+  {
+    "question": "Which hospital in Florida has the highest patient experience rating among those with a proprietary ownership structure?",
+    "answer": "Among hospitals in Florida with a proprietary ownership structure, Highlands Regional Medical Center has a patient experience rating of Average, but Bayfront Health Punta Gorda has a higher rating in some categories, such as having a Higher rating for certain patient experience metrics, making it a strong contender for the highest patient experience rating among proprietary hospitals in Florida."
+  },
+  {
+    "question": "What are the average patient ratings for Florida Hospital Memorial Medical Center in Daytona Beach, FL?",
+    "answer": "The average patient ratings for Florida Hospital Memorial Medical Center in Daytona Beach, FL are Average, with specific ratings of Average for various aspects of care, including an average overall rating of 23572, and higher ratings for some specific services."
+  },
+  {
+    "question": "How do the patient satisfaction ratings of St Anthonys Hospital in Saint Petersburg, FL compare to those of Bayfront Health Brooksville in Brooksville, FL?",
+    "answer": "The patient satisfaction ratings of St Anthonys Hospital in Saint Petersburg, FL are generally higher than those of Bayfront Health Brooksville in Brooksville, FL, with St Anthonys Hospital having an average rating of 24418 and Bayfront Health Brooksville having an average rating of 22523, although both hospitals have some similar ratings for certain aspects of care."
+  },
+  {
+    "question": "Which hospital in the provided data has the highest average patient rating, and what is its ownership type?",
+    "answer": "The hospital with the highest average patient rating is Baptist Medical Center Jacksonville in Jacksonville, FL, and Sarasota Memorial Hospital in Sarasota, FL, with average ratings of 25043 and 23690 respectively, although other hospitals have similar high ratings, and the ownership type of Baptist Medical Center Jacksonville is Private, while Sarasota Memorial Hospital is a Government hospital."
+  },
+  {
+    "question": "What is the ownership type of Sarasota Memorial Hospital?",
+    "answer": "The ownership type of Sarasota Memorial Hospital is Government."
+  },
+  {
+    "question": "How does the average performance of Baptist Medical Center Jacksonville compare to other hospitals in terms of quality metrics?",
+    "answer": "Baptist Medical Center Jacksonville has a mix of above and below average performance in various quality metrics, but its overall performance is average, with some areas being better and others being lower than average."
+  },
+  {
+    "question": "Which hospital has the highest average performance rating among the listed hospitals, and what is its location?",
+    "answer": "The hospital with one of the highest average performance ratings is Flagler Hospital, located in Saint Augustine, FL, with an average performance rating and some areas being better than average, although the actual highest rated hospital may vary depending on specific metrics."
+  },
+  {
+    "question": "What is the average number of beds in hospitals with a private ownership type?",
+    "answer": "The average number of beds in private hospitals is approximately 3, with some having as few as 2 beds and others having as many as 4 beds, as seen in the data for hospitals like Baptist Medical Center - Beaches, Morton Plant Hospital, and Tampa General Hospital."
+  },
+  {
+    "question": "How does the patient satisfaction rating compare between Baptist Medical Center - Beaches and Aventura Hospital And Medical Center?",
+    "answer": "According to the data, Baptist Medical Center - Beaches has an average patient satisfaction rating, with some ratings being above average and others being below average, whereas Aventura Hospital And Medical Center has a higher patient satisfaction rating, with many ratings being above average or higher, indicating a better patient experience at Aventura Hospital."
+  },
+  {
+    "question": "Which hospital has the highest number of beds among the ones listed, and what is its ownership type?",
+    "answer": "The hospital with the highest number of beds is not explicitly stated, but among the ones listed, several have 4 beds, such as Baptist Medical Center - Beaches, North Okaloosa Medical Center, and Baptist Medical Center - Nassau, with various ownership types including private and government, indicating that the number of beds does not necessarily correlate with a specific ownership type."
+  },
+  {
+    "question": "What is the hospital type of Tallahassee Memorial Hospital and its location?",
+    "answer": "Tallahassee Memorial Hospital is a private hospital located in Tallahassee, FL."
+  },
+  {
+    "question": "How does the average patient experience at Lower Keys Medical Center compare to that at Jackson Hospital?",
+    "answer": "The average patient experience at Lower Keys Medical Center is reported as Average, with a higher rating for one category, while Jackson Hospital also reports an Average patient experience, but with lower ratings in some categories."
+  },
+  {
+    "question": "Which hospital has the highest number of beds among the listed hospitals in Florida, and what is its ownership type?",
+    "answer": "The hospital with the highest number of beds is not explicitly stated, but based on the provided data, Baptist Medical Center - Nassau has 4 beds and is a government hospital, while other hospitals have fewer beds, such as Lakeland Regional Medical Center with 1 bed and is a private hospital."
+  },
+  {
+    "question": "What is the hospital type of Florida Hospital Tampa and what is its location?",
+    "answer": "Florida Hospital Tampa is a Private hospital located in Tampa, Florida."
+  },
+  {
+    "question": "How does the average performance of Palm Beach Gardens Medical Center compare to that of Cape Canaveral Hospital in terms of patient care?",
+    "answer": "Palm Beach Gardens Medical Center has an average performance with higher ratings in some areas, while Cape Canaveral Hospital also has an average performance but with above average ratings in certain aspects of patient care."
+  },
+  {
+    "question": "Which hospital has the highest average patient volume among the listed hospitals in Florida, and what is its ownership type?",
+    "answer": "Kendall Regional Medical Center has one of the highest average patient volumes, with a volume of 29761, and it is a Proprietary hospital."
+  },
+  {
+    "question": "What is the number of beds in Mercy Hospital Washington?",
+    "answer": "The number of beds in Mercy Hospital Washington is 4."
+  },
+  {
+    "question": "How does the performance of Cameron Regional Medical Center compare to the average in terms of certain metrics?",
+    "answer": "Cameron Regional Medical Center has a mix of above average, average, and below average performance in different metrics, with some metrics being unknown."
+  },
+  {
+    "question": "What type of ownership does Nevada Regional Medical Center have and what is its bed count?",
+    "answer": "Nevada Regional Medical Center has a government ownership and its bed count is 3."
+  },
+  {
+    "question": "What is the government type of Worth TX?",
+    "answer": "The government type of Worth TX is unknown, as the provided data does not specify this information."
+  },
+  {
+    "question": "How does the performance of First Texas Hospital compare to others in terms of the 'Above' or 'Same' categories?",
+    "answer": "First Texas Hospital has an 'Above' rating in one category and 'Same' in another, indicating a mixed performance compared to others, with specific ratings of 'Same' and 'Above' in the provided categories."
+  },
+  {
+    "question": "What are the differences in ownership structure between Houston Methodist The Woodlands Hospital and The Hospitals Of Providence Transmountain Campus?",
+    "answer": "The main difference in ownership structure between Houston Methodist The Woodlands Hospital and The Hospitals Of Providence Transmountain Campus is that Houston Methodist The Woodlands Hospital is privately owned, whereas The Hospitals Of Providence Transmountain Campus is proprietary, indicating different ownership and potentially different operational structures."
+  }
+]
